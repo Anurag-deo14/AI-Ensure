@@ -41,15 +41,15 @@ Operations: AI-powered chatbots, utilizing neural networks, can handle the major
   <img src="https://i.ibb.co/xSFhWy9/DALL-E-2024-10-02-14-46-29-An-image-representing-AI-and-machine-learning-transforming-the-insurance.png" />
 </p>
 
-There is a need for a technology platform to **Revolutionize the operation of Insurance Sector** and that's how our project **Smart AI Insurance** jumps in!
-## What is Smart AI Insurance?
+There is a need for a technology platform to **Revolutionize the operation of Insurance Sector** and that's how our project **AI Ensure** jumps in!
+## What is AI Ensure?
 
 
-**Smart AI Insurance** represents the seamless connection between insurance companies and customers, serving as a transformative gateway to the insurance sector. Our software is a web-based application that leverages modern, cutting-edge technologies to revolutionize the way insurance claims and processes are handled.
+**AI Ensure** represents the seamless connection between insurance companies and customers, serving as a transformative gateway to the insurance sector. Our software is a web-based application that leverages modern, cutting-edge technologies to revolutionize the way insurance claims and processes are handled.
 
-Smart AI Insurance offers a comprehensive AI-driven solution for all stakeholders, including customers, agents, and insurance companies. It provides an integrated system for managing insurance claims and policies with ease and efficiency. Additionally, the platform includes a curated database of mechanics, ranked by ratings and reviews, tailored to meet specific customer needs.
+AI Ensure offers a comprehensive AI-driven solution for all stakeholders, including customers, agents, and insurance companies. It provides an integrated system for managing insurance claims and policies with ease and efficiency. Additionally, the platform includes a curated database of mechanics, ranked by ratings and reviews, tailored to meet specific customer needs.
 
-Explore the future of insurance with Smart AI Insurance and discover how we are simplifying the insurance experience for everyone!
+Explore the future of insurance with AI Ensure and discover how we are simplifying the insurance experience for everyone!
 
 
 <p align="center">
@@ -116,8 +116,8 @@ Throughout this project, we gained valuable insights on both technical and non-t
 ### Accomplishments
 In just a few days, we explored numerous concepts and technologies. While collaborating across the frontend, backend, and IBM Cloud posed challenges, we successfully completed the project on time, achieving what initially seemed like a daunting task. We believe that our project has the potential to make a meaningful impact in the insurance sector.
 
-### What's next for Smart AI Insurance
-**Smart AI Insurance** stands out as one of our most technically advanced projects to date, and we are eager to expand its capabilities beyond this initial development phase. Alongside refining the existing features, we plan to introduce additional operational functionalities to enhance usability and effectiveness.
+### What's next for AI Ensure
+**AI Ensure** stands out as one of our most technically advanced projects to date, and we are eager to expand its capabilities beyond this initial development phase. Alongside refining the existing features, we plan to introduce additional operational functionalities to enhance usability and effectiveness.
 
 **Some of them are**:-
 
