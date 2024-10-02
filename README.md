@@ -1,4 +1,4 @@
-<h1 align="center">AI Insurance</h1>
+<h1 align="center">AI Ensure</h1>
 <p align="center">
 </p>
 
