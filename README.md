@@ -79,7 +79,7 @@ Delve deep to explore more!
 # Engineering
 
 ### System Architecture
-![sys-arch](https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/architecture.png)
+![sys-arch](https://i.ibb.co/9ZgtJKD/Blank-diagram-5.png)
 
 ## Technology Stack:
   1) IBM-Watson Knowledge Studio
