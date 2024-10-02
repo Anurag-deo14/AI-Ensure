@@ -95,7 +95,7 @@ Delve deep to explore more!
 **So, how everything works?**
 
 <p align="center">
-  <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/persona.png" />
+  <img src="https://i.ibb.co/HFgB4dY/Virtual-Assistant.png" />
 </p>
 
 > 1. **Document Upload:** Insurance policy documents are uploaded to Watson Discovery and annotated using Watson's Smart Document Understanding tool for better 
