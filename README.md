@@ -7,7 +7,7 @@
 
 ## Background
 <p align="center">
-  <img src="https://i.ibb.co/s6f1WqV/ai.png](https://i.ibb.co/xSFhWy9/DALL-E-2024-10-02-14-46-29-An-image-representing-AI-and-machine-learning-transforming-the-insurance.png" />
+  <img src="https://i.ibb.co/s6f1WqV/ai.png" />
 </p>
 
 
@@ -38,7 +38,7 @@ Operations: AI-powered chatbots, utilizing neural networks, can handle the major
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/SKmnGmZF/insure.png" />
+  <img src="https://i.postimg.cc/SKmnGmZF/insure.png](https://i.ibb.co/xSFhWy9/DALL-E-2024-10-02-14-46-29-An-image-representing-AI-and-machine-learning-transforming-the-insurance.png" />
 </p>
 
 There is a need for a technology platform to **Revolutionize the operation of Insurance Sector** and that's how our project **Smart AI Insurance** jumps in!
