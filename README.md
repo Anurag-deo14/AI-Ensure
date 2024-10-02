@@ -98,35 +98,34 @@ Delve deep to explore more!
   <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/persona.png" />
 </p>
 
-> 1. Insurance policy documents are uploaded to Watson Discovery, and then annotated using Watson's Smart Document Understanding tool.
-> 2. Mechanic review documents are uploaded to Watson Knowledge Studio, and then annotated to create custom entities and relationships.
-> 3. User chats via web-application UI to talk to Watson Assistant.
-> 4. Watson Assistant answers policy questions using Watson Discovery's querying capabilities.
-> 5. The chatbot recommends a mechanic based on the type of damage that is done to the vehicle, and on the sentiment of the customer reviews.
-> 6. The User can also apply for a new policy manualy through it which is backed by a insurance moderator.
+> 1. **Document Upload:** Insurance policy documents are uploaded to Watson Discovery and annotated using Watson's Smart Document Understanding tool for better 
+     data management.
+> 2. **Mechanic Review:** Mechanic review documents are uploaded to Watson Knowledge Studio and annotated to create custom entities and relationships.
+> 3. **User Interaction:** Users can interact with the AI through a web application interface, communicating directly with Watson Assistant.
+> 4. **Query Resolution:** Watson Assistant addresses policy-related inquiries by leveraging Watson Discovery's querying capabilities.
+> 5. **Mechanic Recommendations:** The chatbot recommends mechanics based on the type of vehicle damage and customer sentiment from reviews.
+> 6. **Policy Application:** Users can manually apply for a new insurance policy, supported by an insurance moderator.
 
 ## Takeaways 
 
 
 ### What we learned
-A lot of things, both summed up in technical & non-technical sides. Also not to mention, We had enhanced our googling and Stackoverflow searching skill during the hackathon and beside that we had learned a lot about the IBM-Cloud :)
+Throughout this project, we gained valuable insights on both technical and non-technical fronts. Our research skills on platforms like Google and Stack Overflow were significantly enhanced, and we acquired a deeper understanding of IBM Cloud technologies.
 
 
 ### Accomplishments
-We had explored so many things within few days. It was a tad difficult for us to collaborate with every stack including the frontend backend and the IBM cloud but We are proud of finishing the project on time which seemed like a tough task initially but happily implemented every thing what We had thought of. Lastly, we think the impact of our project could have a significant accomplishment. Especially, trailing the current scenario of COVID19, this could really be a product that both the people and the insurance-company can find useful!
+In just a few days, we explored numerous concepts and technologies. While collaborating across the frontend, backend, and IBM Cloud posed challenges, we successfully completed the project on time, achieving what initially seemed like a daunting task. We believe that our project has the potential to make a meaningful impact in the insurance sector.
 
 ### What's next for Smart AI Insurance
-As previously mentioned, *Smart AI Insurance* is one of the **most technically sound** projects We have made till now, and We would love to expand the wings of our project beyond the hackathon. Apart from fine-tuning the project, We are also planning to give the project with some more features in the operational side which can increase its usability more and can be more effective. 
+**Smart AI Insurance** stands out as one of our most technically advanced projects to date, and we are eager to expand its capabilities beyond this initial development phase. Alongside refining the existing features, we plan to introduce additional operational functionalities to enhance usability and effectiveness.
 
 **Some of them are**:-
 
-> 1. To implement a ML model which can help the company with the damage detection capabilities.
-> 2. Facial recogniton, to find the database of the particular customer.
-> 3. Number plate detection of the car, So the company can match the database with it.
+> 1. Implementing a machine learning model for improved damage detection capabilities.
+> 2. Integrating facial recognition to access the customer database.
+> 3. Developing number plate detection to match vehicle databases efficiently.
 
-we're also planning to integrate new user-intuitive features such as refined User access, easy checkout option, adding more such IoT-based inter-device support for maximizing our audience interaction.Though the project basically focuses on the **AUTO-INSURANCE** we can also give some of the features more to use in different Insurance-Sectors. Apart from these, a lot of code needs to be refactored which does include CSS improvements for desktop preview as I couldn't hit so much under 24 hrs. Overall, I hope that one day this project can be widely used among the Insurance community to redefine the existing & remove the backlogs.
-
-
+We also aim to incorporate user-friendly features such as streamlined access controls, easy checkout options, and enhanced IoT-based inter-device support to boost audience engagement. While the project primarily focuses on auto insurance, we are considering adapting some features for other insurance sectors. Additionally, we plan to refactor code, including CSS improvements for a better desktop experience, which was challenging to complete within the initial timeframe. Ultimately, we envision our project becoming widely adopted within the insurance community to redefine existing processes and eliminate inefficiencies.
 
 ## Contributors:
 
