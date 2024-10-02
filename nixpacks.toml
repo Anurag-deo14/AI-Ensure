@@ -1,4 +1,15 @@
-[phases]
-  install = "cd MAIN-WEBAPP && npm install"
-  build = "npm run build"
-  start = "npm start"
+[phases.install]
+cmds = [
+  "cd MAIN-WEBAPP",
+  "npm install"
+]
+
+[phases.build]
+cmds = [
+  "npm run build"
+]
+
+[phases.start]
+cmds = [
+  "npm start"
+]
