@@ -7,7 +7,7 @@
 
 ## Background
 <p align="center">
-  <img src="https://ibb.co/F0rYHzD" />
+  <img src="[https://i.ibb.co/s6f1WqV/ai.png]" />
 </p>
 
 
