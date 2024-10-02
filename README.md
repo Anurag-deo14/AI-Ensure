@@ -7,7 +7,7 @@
 
 ## Background
 <p align="center">
-  <img src="https://i.ibb.co/s6f1WqV/ai.png" />
+  <img src="https://i.ibb.co/s6f1WqV/ai.png](https://i.ibb.co/xSFhWy9/DALL-E-2024-10-02-14-46-29-An-image-representing-AI-and-machine-learning-transforming-the-insurance.png" />
 </p>
 
 
