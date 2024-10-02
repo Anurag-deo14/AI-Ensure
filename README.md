@@ -121,5 +121,5 @@ we're also planning to integrate new user-intuitive features such as refined Use
 ## Contributors:
 
 * [Anurag Deo](https://github.com/Anurag-deo14)
-* [Arya Srivastava](https://github.com/Anurag-deo14)
+* [Arya Srivastava]([https://github.com/Anurag-deo14](https://github.com/aryaSri17))
 
