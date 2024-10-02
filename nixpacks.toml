@@ -1,0 +1,4 @@
+[phases]
+  install = "cd MAIN-WEBAPP && npm install"
+  build = "npm run build"
+  start = "npm start"
