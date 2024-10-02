@@ -62,17 +62,16 @@ A further explanation of how each of these works can be found in the Engineering
 
 AI-Insurance currently supports all of the following features!
 
-> 1. To interact with the customer with an AI based Virtual Assistance.
-> 2. It gives the coustomer all the possible details about the insurance policy they wants to know.
-> 3. It can also file a claim for us in case we come out with an accident.
-> 4. The insurance moderator can check the claims or policy request accordingly.
-> 5. Manually applying for a new policy of insurance.
-> 6. Manually applying for a claim to the company.
-> 7. It can assign us or recommend us mechanics around us with some good ratings and views depending upon our car-damage.
-> 8. It can also help us to check with the claim status.
-> 9. Most importantly this project has a hastle free password-less login page with **SAWO AUTH API**.
-> 10. It can detect the car damage type for the insurance company to assist the moderator to take action accordingly.
-> 11. Distinguishable dashboard pages for all of the above.
+> 1. **Comprehensive Insurance Information:** The assistant provides customers with detailed information about the insurance policies they are interested in.
+> 2. **Claims Filing Assistance:** In the event of an accident, customers can easily file a claim through the assistant.
+> 3. **Claims Monitoring:** Insurance moderators can review and manage claims or policy requests efficiently.
+> 4. **Policy Applications:** Customers can manually apply for new insurance policies through the platform.
+> 5. **Claims Submission:** The assistant facilitates the manual submission of claims to the insurance company.
+> 6. **Mechanic Recommendations:** Based on the type of car damage, the assistant recommends local mechanics with good ratings and reviews.
+> 7. **Claim Status Tracking:** Customers can check the status of their claims effortlessly.
+> 8. **Password-less Login:** The project features a hassle-free password-less login page using the **SAWO AUTH API** for enhanced security and convenience.
+> 9. **Damage Detection:** The assistant can identify the type of car damage, assisting insurance moderators in taking appropriate actions.
+> 10. **User-Friendly Dashboard:** The platform includes distinct dashboard pages for each of the above functionalities, ensuring a seamless user experience.
 
 Delve deep to explore more!
 
