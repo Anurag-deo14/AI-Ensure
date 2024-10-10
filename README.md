@@ -53,7 +53,7 @@ Explore the future of insurance with AI Ensure and discover how we are simplifyi
 
 
 <p align="center">
-  <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/whole.gif" />
+<!--   <img src="https://github.com/Ayanghosh-agno/AI_Insurance/blob/main/images/whole.gif" /> -->
 </p>
 
 A further explanation of how each of these works can be found in the Engineering section below.
